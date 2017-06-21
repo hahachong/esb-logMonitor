@@ -1,0 +1,22 @@
+{
+  "name": "esb-logmonitor",
+  "version": "1.0.0",
+  "description": "基于es做日志监控管理平台",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hahachong/esb-logMonitor.git"
+  },
+  "author": "hekun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hahachong/esb-logMonitor/issues"
+  },
+  "homepage": "https://github.com/hahachong/esb-logMonitor#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
